@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+*.iml
+port.sh
+/person/conf/dev.yaml
+storage/person/conf/
+vendor
+/vendor
